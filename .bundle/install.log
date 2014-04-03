@@ -1,0 +1,22 @@
+# Logfile created on 2014-04-03 11:05:25 +0100 by logger.rb/44203
+I, [2014-04-03T11:05:25.733934 #1755]  INFO -- : 0:  builder (3.2.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/builder-3.2.2.gemspec
+I, [2014-04-03T11:05:25.734289 #1755]  INFO -- : 0:  mime-types (2.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.2.gemspec
+I, [2014-04-03T11:05:28.227098 #1755]  INFO -- : 0:  mini_portile (0.5.3) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.3.gemspec
+I, [2014-04-03T11:05:28.227470 #1755]  INFO -- : 0:  nokogiri (1.6.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-04-03T11:05:28.227737 #1755]  INFO -- : 0:  rack (1.5.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-04-03T11:05:28.228011 #1755]  INFO -- : 0:  rack-test (0.6.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-04-03T11:05:28.228260 #1755]  INFO -- : 0:  xpath (2.0.0) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-04-03T11:05:28.228518 #1755]  INFO -- : 0:  capybara (2.2.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-04-03T11:05:28.228771 #1755]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-04-03T11:05:28.229028 #1755]  INFO -- : 0:  multi_json (1.9.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.9.2.gemspec
+I, [2014-04-03T11:05:28.229270 #1755]  INFO -- : 0:  jwt (0.1.11) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/jwt-0.1.11.gemspec
+I, [2014-04-03T11:05:28.229503 #1755]  INFO -- : 0:  rack-protection (1.5.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-04-03T11:05:28.229757 #1755]  INFO -- : 0:  rspec-core (2.14.8) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rspec-core-2.14.8.gemspec
+I, [2014-04-03T11:05:28.230013 #1755]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-04-03T11:05:28.230261 #1755]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-04-03T11:05:28.230503 #1755]  INFO -- : 0:  rspec (2.14.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-04-03T11:05:28.230764 #1755]  INFO -- : 0:  shotgun (0.9) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-04-03T11:05:28.231001 #1755]  INFO -- : 0:  tilt (1.4.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-04-03T11:05:28.231283 #1755]  INFO -- : 0:  sinatra (1.4.4) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-04-03T11:05:28.231558 #1755]  INFO -- : 0:  twilio-ruby (3.11.5) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/twilio-ruby-3.11.5.gemspec
+I, [2014-04-03T11:05:28.231830 #1755]  INFO -- : 0:  bundler (1.5.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
